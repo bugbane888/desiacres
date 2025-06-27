@@ -1,0 +1,67 @@
+{
+  "summary": [
+    {
+      "id": 1,
+      "title": "Lands Listed",
+      "value": 2,
+      "subtitle": "View My Lands",
+      "imageUrl": "https://picsum.photos/id/1025/200"
+    },
+    {
+      "id": 2,
+      "title": "Developer Interests",
+      "value": 3,
+      "subtitle": "View Interests",
+      "imageUrl": "https://picsum.photos/id/1043/200"
+    },
+    {
+      "id": 3,
+      "title": "JD Docs Status",
+      "value": "Drafting",
+      "subtitle": "View Documents",
+      "imageUrl": "https://picsum.photos/id/1062/200"
+    }
+  ],
+
+  "developers": [
+    {
+      "id": 1,
+      "title": "Greenfield Developers",
+      "type": "Residential Project",
+      "imageUrl": "https://picsum.photos/id/1003/400/200"
+    },
+    {
+      "id": 2,
+      "title": "Urban Builders",
+      "type": "Mixed Use",
+      "imageUrl": "https://picsum.photos/id/1011/400/200"
+    },
+    {
+      "id": 3,
+      "title": "Coastal Realty",
+      "type": "Luxury Villas",
+      "imageUrl": "httpsum.photos/id/1018/400/200"
+    },
+    {
+      "id": 4,
+      "title": "Skyline Group",
+      "type": "Commercial Spaces",
+      "imageUrl": "https://picsum.photos/id/1020/400/200"
+    }
+  ],
+
+  "activities": [
+    {
+      "id": 1,
+      "icon": "home",
+      "text": "Developer Greenview Properties",
+      "time": "1 hour ago"
+    },
+    {
+      "id": 2,
+      "icon": "insert-drive-file",
+      "text": "Document 'Land Agreement' updated",
+      "time": "2 hours ago"
+    }
+  ]
+}
